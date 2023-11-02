@@ -3,7 +3,7 @@ pipeline {
 	agent any
 	
 	environment {
-        cluster = "vproappprod"
+        cluster = "vproprod"
         service = "vproappprodsvc"
     }
 
